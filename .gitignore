@@ -105,3 +105,6 @@ dmypy.json
 
 # profiling
 .prof
+
+#VSCode
+.vscode/
